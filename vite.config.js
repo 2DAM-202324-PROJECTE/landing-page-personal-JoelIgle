@@ -9,7 +9,7 @@ export default defineConfig({
         rollupOptions: {
             input: {
                 main: resolve(__dirname, 'index.html'),
-                company: resolve(__dirname, 'Shop/shop.html'),
+                company: resolve(__dirname, 'Shop/nike.html'),
                 error: resolve(__dirname, 'Error/error.html'),
                 features: resolve(__dirname, 'Contacto/contacto.html'),
                 login: resolve(__dirname, 'Login/login.html'),
