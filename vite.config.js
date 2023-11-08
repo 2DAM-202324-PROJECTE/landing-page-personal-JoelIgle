@@ -14,6 +14,7 @@ export default defineConfig({
                 features: resolve(__dirname, 'Contacto/contacto.html'),
                 login: resolve(__dirname, 'Login/login.html'),
                 marketplace: resolve(__dirname, 'Plan/plan.html'),
+                script: resolve(__dirname,'menu.js'),
             },
         },
     },
